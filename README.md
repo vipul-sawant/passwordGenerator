@@ -1,8 +1,26 @@
-# React + Vite
+# ___Random Password Generator in React___
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### __Step 1__
 
-Currently, two official plugins are available:
+Click on code button and download zip file
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### __Step 2__
+
+Extract zip file on your system and a folder will be unzipped.  
+Open that folder and in its path bar remove the path and type cmd.  
+A Commnad Line Terminal will open with the folder's path.
+
+### __Step 3__
+
+### In the terminal type below commands
+
+```
+npm i
+```
+```
+npm run dev
+```
+
+### Final step
+
+To open site. [Click here](http://localhost:5173/)
